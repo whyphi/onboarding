@@ -62,4 +62,4 @@ Welcome to the "Portal"! To work effectively on the project, here are the requir
 
 - Familiarize yourself with NPM, the package manager for JavaScript. You'll use it to install and manage packages, scripts, and dependencies for the "Portal" project.
 
-These requirements and concepts serve as a foundation for your work on the "Portal" frontend application. As you progress, you'll have the skills and knowledge needed to contribute effectively to the project. Don't hesitate to reach out to your team for guidance and support as you continue your journey with "Portal." Happy coding!
+These requirements and concepts serve as a foundation for your work on the "Portal" frontend application. As you progress, you'll have the skills and knowledge needed to contribute effectively to the project.
