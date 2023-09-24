@@ -18,6 +18,10 @@ Welcome to the "Portal"! To work effectively on the project, here are the requir
 
 ## 2. React and React Hooks
 
+### Creating a single-page application (SPA)
+
+- Learn how to create a single-page application. What are some trade-offs for using SPA instead of multi-page?
+
 ### Understanding React Hooks
 
 - Get familiar with React Hooks, especially `useState` and `useEffect`. These are fundamental for managing state and handling side effects in your components.
@@ -33,6 +37,10 @@ Welcome to the "Portal"! To work effectively on the project, here are the requir
 ### `Layout.tsx` and `Page.tsx`
 
 - Understand the role of `Layout.tsx` and `Page.tsx` in structuring your application layout and individual pages.
+
+### Server-Side Rendering vs Client-Side Rendering
+
+- Learn the difference between SSR and CSR in Next.js. This includes possible use cases for SSR. 
 
 ### `next/navigation`
 
